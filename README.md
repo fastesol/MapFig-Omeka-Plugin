@@ -31,7 +31,7 @@ Maps can be added to directly to pages, as Items in collections, and Exhibit pag
 
 ## Installation
 
-Copy the files to your Omeka plugins directory, <b>making sure that directory name is MapFig</b>.  You can also download the current, stable zip file from us [here] (http://mapfig.org/omeka.html) as well. 
+Copy the files to your Omeka plugins directory, <b>making sure that directory name is MapFig</b>.  You can also download the current, stable zip file from us [here] (http://mapfig.org/mapfig-omeka-plugin.html) as well. 
 
 Activate the plugin from the Omeka plugins page
 
