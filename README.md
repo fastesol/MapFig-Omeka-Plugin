@@ -17,6 +17,12 @@ Created the separate add/edit views for all the controllers
 
 Removed all extraneous files
 
+Changed default starter group "My First Group" to include only SSL map tiles to avoid conflicts.
+
+Add our MapFig Greenwaters map tiles to base installation.
+
+Updated attributions for MapQuest and Thunderforest.
+
 ## Description
 
 Add Leaflet maps via shortcode to your pages, exhibits, items, and collections.
