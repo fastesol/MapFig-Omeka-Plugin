@@ -5,6 +5,14 @@ MapFig Leaflet Plugin for Omeka
 Stand alone plugin for adding Leaflet maps to your Omeka installation
 # Version 2.0.1
 
+# Changelog
+
+Created a separate controller for each module
+Removed addAction/editAction/saveAction/deleteAction functions from IndexController
+Used the Abstract addAction/editAction/deleteAction functions for the controllers to enable the built-in csrf feature
+Created the separate add/edit views for all the controllers
+Removed all extraneous files
+
 ## Description
 
 Add Leaflet maps via shortcode to your pages, exhibits, items, and collections.
