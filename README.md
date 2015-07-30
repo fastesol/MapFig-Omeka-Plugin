@@ -41,6 +41,3 @@ Activate the plugin from the Omeka plugins page
   
   - Please report any issues to **[plugins(at)acugis(dot).com](mailto:plugins@acugis.com)**.
  
-  
-  
-
