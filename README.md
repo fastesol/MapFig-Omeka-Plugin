@@ -8,9 +8,13 @@ Stand alone plugin for adding Leaflet maps to your Omeka installation
 # Changelog
 
 Created a separate controller for each module
+
 Removed addAction/editAction/saveAction/deleteAction functions from IndexController
+
 Used the Abstract addAction/editAction/deleteAction functions for the controllers to enable the built-in csrf feature
+
 Created the separate add/edit views for all the controllers
+
 Removed all extraneous files
 
 ## Description
