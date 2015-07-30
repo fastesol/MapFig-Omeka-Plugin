@@ -5,7 +5,7 @@ MapFig Leaflet Plugin for Omeka
 Stand alone plugin for adding Leaflet maps to your Omeka installation
 # Version 2.0.1
 
-# Changelog
+## Changelog
 
 Created a separate controller for each module
 
