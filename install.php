@@ -26,9 +26,9 @@
 			`id` int(11) NOT NULL AUTO_INCREMENT,
 			`name` varchar(200) NOT NULL,
 			`url` varchar(200) NOT NULL,
-			`key` varchar(200) NOT NULL,
-			`accesstoken` varchar(200) NOT NULL,
-			`attribution` varchar(500) NOT NULL,
+			`key` varchar(200) DEFAULT '',
+			`accesstoken` varchar(200) DEFAULT '',
+			`attribution` varchar(500) DEFAULT '',
 			PRIMARY KEY (`id`)
 		) ENGINE=InnoDB DEFAULT CHARSET=latin1 AUTO_INCREMENT=1";
 	$db->query($sql);
